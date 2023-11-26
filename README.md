@@ -10,12 +10,12 @@ Members of the Logging structure element are:
 Members of the Product structure element are:
 
   int product_id
-	char product_code
-	char product_name
-	char product_type
-	char product_weight
-	float cost_per_item
-	char total_stock
+  char product_code
+  char product_name
+  char product_type
+  char product_weight
+  float cost_per_item
+  char total_stock
 
 Members of the Customer structure element are:
   char customername
