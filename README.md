@@ -4,19 +4,19 @@ I have done this project using C-language.
 Here I am using structure data model to store the details of an element in the file.
 
 ###Members of the Logging structure element are:
-  char fullname
-  char username
-  char password
+  ####char fullname
+  ####char username
+  ####char password
 
 ###Members of the Product structure element are:
 
-  int product_id
-  char product_code
-  char product_name
-  char product_type
-  char product_weight
-  float cost_per_item
-  char total_stock
+  ####int product_id
+  ####char product_code
+  ####char product_name
+  ####char product_type
+  ####char product_weight
+  ####float cost_per_item
+  ####char total_stock
 
 ###Members of the Customer structure element are:
   char customername
