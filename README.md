@@ -4,39 +4,65 @@ I have done this project using C-language.
 Here I am using structure data model to store the details of an element in the file.
 
 Members of the Logging structure element are:
+
   char fullname
+  
   char username
+  
   char password
 
 Members of the Product structure element are:
 
   int product_id
+  
   char product_code
+  
   char product_name
+  
   char product_type
+  
   char product_weight
+  
   loat cost_per_item
+  
   char total_stock
 
 Members of the Customer structure element are:
+
   char customername
+  
   char mobilenumber
+  
   char Productname
+  
   float priceperitem
+  
   int totalitems
+  
   float totalcost
+  
   char status
 
 The operations on the structure element are:
+
   Admin Signup
+  
   Admin Login
+  
   Add Product
+  
   Product Reports
+  
   Search Product
+  
   Modify Product
+  
   Delete Product
+  
   Add Sells
+  
   Sells Report
+  
   Log Out
 
 _**This is how the initial screen will look like:**_
